@@ -12,4 +12,4 @@ This repository contains an analysis of the Superstore Sales dataset, including 
 - Segmentation by region, category, and customer segments
 - Time-series analysis of sales trends
 - Forecasting future sales using Power BI's built-in analytics tools
-![Super Store Sales Dashboard](images/Screenshot-2025-07-29-144756.jpeg)
+
